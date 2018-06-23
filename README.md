@@ -1,5 +1,5 @@
 # Acho-bot
-Auto aim bot using neural network, done in python.
+> Auto aim bot using neural network.
 
 It uses OpenCV 3.3 dnn module + petrained MobileNetSSD caffemodel to detect entities with person form on screen and then moves the cursor over them and does click. It's a playground idea to create an auto-aim bot for games like Fornite.
 
@@ -8,11 +8,6 @@ It uses OpenCV 3.3 dnn module + petrained MobileNetSSD caffemodel to detect enti
 ### Prerequisites
 
 - Python3
-
-### Recommendations
-
-- PyCharm as IDE
-- Virtualenv
 
 ### Installation
 
@@ -30,9 +25,18 @@ A window will appear that's doing screengrabs, and over these screen grabs are l
 
 **Note:** To quit, having the bot window focused, press 'q'. 
 
+## Built With
+
+- [PyCharm](https://www.jetbrains.com/pycharm/) as IDE
+- [Python virtual environment](https://docs.python.org/3/tutorial/venv.html) to struggling with libraries per project.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. 
+
+## License
+
+This project is licensed under the Apache License - see the [LICENSE](./LICENSE) file for details 
 
 ## Acknowledgments
 
