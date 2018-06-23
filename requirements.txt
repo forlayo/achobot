@@ -1,0 +1,10 @@
+mutils
+opencv-python
+numpy
+request
+keyboard
+pypiwin32
+pygame
+Pillow
+imutils
+pyautogui
