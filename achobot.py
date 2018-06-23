@@ -1,5 +1,5 @@
 # USAGE
-# python magiceye.py
+# python achobot.py
 
 # import the necessary packages
 import win32api
